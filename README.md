@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 📫 Discord : ZoySoy#0101
-- 🌱 I’m currently learning : HaxeFlixel          
+- 📫 Discord : zoysoy
+- 🌱 I’m currently learning : HTML          
 
 <!--
 **ZoySoy-dot/ZoySoy-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
